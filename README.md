@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=tTNFWbsCUi8
 
 
 # Tools
-Links from the tools used for the construction of the dataset were:[Scripts.zip](https://github.com/Alessandra-UNSA/ESCorpus-PE/files/7107336/Scripts.zip)
+Links from the tools used for the construction of the dataset were:
 
 https://www.audacityteam.org/
 
